@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "data-cleaning-with-python",
+      "title": "Cleaning Messy Data with Python",
+      "description": "Use pandas to inspect, clean, and save a small messy sales dataset.",
+      "path": "assignments/data-cleaning-with-python",
+      "dueDate": "2026-11-09",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Messy Sales Dataset",
+          "file": "sales-messy.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
